@@ -43,7 +43,7 @@ Things you may want to cover:
 ##usersテーブル
 |Column|Type|Options|
 |------|----|-------|
-|name|sring|null: false ,unique :true , add_index|
+|name|string|null: false ,unique :true , add_index|
 |email|string|null: false, unique: true|
 ### Association
 - has many members 
