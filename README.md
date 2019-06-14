@@ -47,7 +47,7 @@ Things you may want to cover:
 |email|string|null: false, unique: true|
 ### Association
 - has many members 
-- has many groups ,throgh:members
+- has many groups ,througn: :members
 - has many messages
 ## messageテーブル
 |Column|Type|Options|
